@@ -31,7 +31,7 @@ jobs:
           # Options
           user: cmckni3
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories
           config_octicon: yes
           config_timezone: America/Chicago
           config_twemoji: yes
