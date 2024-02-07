@@ -58,6 +58,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 6
           plugin_repositories_starred: 10
+          plugin_repositories_order: pinned, featured
           plugin_repositories_affiliations: collaborator
           plugin_sponsors: no
           plugin_stargazers: no
