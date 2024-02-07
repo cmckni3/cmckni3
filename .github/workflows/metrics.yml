@@ -58,11 +58,7 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_people: no
-          plugin_repositories: yes
-          plugin_repositories_pinned: 6
-          plugin_repositories_starred: 10
-          plugin_repositories_order: pinned
-          plugin_repositories_affiliations: collaborator
+          plugin_repositories: no
           plugin_sponsors: no
           plugin_stargazers: no
           plugin_starlists: yes
